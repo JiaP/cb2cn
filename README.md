@@ -7,14 +7,14 @@
 大陆地区：北京、上海、广州、深圳、成都、十堰、宁波  
 境外地区：香港、美国、台北、东京、首尔、新加坡、雅加达、孟买、马尼拉、胡志明市、曼谷、伦敦、圣保罗、迪拜、马来西亚、德国、荷兰
 
-[![https://www.cb2.cn](https://cn.ftp.shiyan.evn.cc/2025/06/01/d7a2bbec1a4982975394c7b10ee8d482.png)](https://www.cb2.cn/)
+[![https://www.cb2.cn](https://cdn.r2.tu.b2w.top/20250601/d7a2bbec1a4982975394c7b10ee8d482.png)](https://www.cb2.cn/)
 
 ### 官网地址
 
 [https://www.cb2.cn](https://www.cb2.cn/)
 
 ### 脚本介绍
-![https://www.cb2.cn](https://raw.githubusercontent.com/vpsad/linuxtools/main/linuxtool.png)
+![https://www.cb2.cn](https://cdn.r2.tu.b2w.top/20250601/3a859a4c39e5344b0dcf8381a13ffc7f.png)
 
 <font style="color:rgb(67, 67, 107);">该脚本工具的功能是快速换源，一键安装BBR、宝塔面板等，测试服务器回程线路、IP质量、流媒体解锁以及服务器性能情况、提供多种操作菜单以实现系统、网络、文件传输等功能。以下是具体功能总结：  
 (AI生成的总结，如有错误或遗漏请反馈)
