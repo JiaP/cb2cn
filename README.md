@@ -95,9 +95,9 @@ v1.0.0 2020年首创版本，功能有：挂载硬盘、安装宝塔面板、离
 ### 使用方法
 大陆服务器
 ```bash
-curl -L https://gitee.com/krhzj/LinuxTool/raw/main/Linux.sh -o Linux.sh && chmod +x Linux.sh && bash Linux.sh
+curl -L https://gitee.com/cb2cn/linux-toolbox/raw/mr/Linux.sh -o Linux.sh && chmod +x Linux.sh && bash Linux.sh
 ```
 境外服务器
 ```bash
-curl -L https://raw.githubusercontent.com/vpsad/LinuxTool/main/Linux.sh -o Linux.sh && chmod +x Linux.sh && bash Linux.sh
+curl -L https://raw.githubusercontent.com/JiaP/cb2cn/refs/heads/main/Linux.sh -o Linux.sh && chmod +x Linux.sh && bash Linux.sh
 ```
