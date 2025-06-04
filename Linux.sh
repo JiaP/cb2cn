@@ -1277,13 +1277,13 @@ do
                2) 
                    URL=https://download.bt.cn/bthids/scripts/install_hids.sh && if [ -f /usr/bin/curl ];then curl -sSO "$URL" ;else wget -O install_hids.sh "$URL";fi;bash install_hids.sh;;  
                3) 
-                   url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ed8484bec;; 
+                   url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh eb80e538b;; 
                4) 
-                   wget -O install.sh https://download.bt.cn/install/install_lts.sh && sudo bash install.sh ed8484bec;;    
+                   wget -O install.sh https://download.bt.cn/install/install_lts.sh && sudo bash install.sh eb80e538b;;    
                5) 
-                   wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install.sh ed8484bec;; 
+                   wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install.sh eb80e538b;; 
                6) 
-                   if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh ed8484bec;;    
+                   if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh eb80e538b;;    
                7) 
                    URL=https://download.bt.cn/cloudwaf/scripts/install_cloudwaf.sh && if [ -f /usr/bin/curl ];then curl -sSO "$URL" ;else wget -O install_cloudwaf.sh "$URL";fi;bash install_cloudwaf.sh;;    
                q)   
@@ -1357,7 +1357,7 @@ do
             bash <(curl -sSL https://linuxmirrors.cn/main.sh) --edu
             ;;
         13)
-            if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh ed8484bec
+            if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh eb80e538b
             ;;
         14)
             while true
