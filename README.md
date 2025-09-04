@@ -9,9 +9,11 @@
 
 [![https://www.cb2.cn](https://r2.tu.b2w.top/20250601/d7a2bbec1a4982975394c7b10ee8d482.png)](https://www.cb2.cn/)
 
-### 官网地址
+### 不二云计算官网
 
 [https://www.cb2.cn](https://www.cb2.cn/)
+### 脚本项目官网
+[https://linux.beycn.com/](https://linux.beycn.com/)
 
 ### 脚本介绍
 ![https://www.cb2.cn](https://r2.tu.b2w.top/20250601/3a859a4c39e5344b0dcf8381a13ffc7f.png)
