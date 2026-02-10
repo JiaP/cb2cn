@@ -16,7 +16,7 @@
 [https://linux.beycn.com/](https://linux.beycn.com/)
 
 ### 脚本介绍
-![https://www.cb2.cn](https://r2.tu.b2w.top/20250601/3a859a4c39e5344b0dcf8381a13ffc7f.png)
+![https://www.cb2.cn](https://cn.ftp.shiyan.evn.cc/2026/02/10/640f3672ea58397962bf3be95ffcc16a.png)
 
 <font style="color:rgb(67, 67, 107);">该脚本工具的功能是快速换源，一键安装BBR、宝塔面板等，测试服务器回程线路、IP质量、流媒体解锁以及服务器性能情况、提供多种操作菜单以实现系统、网络、文件传输等功能。以下是具体功能总结：  
 (AI生成的总结，如有错误或遗漏请反馈)
