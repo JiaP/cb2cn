@@ -7,7 +7,7 @@
 大陆地区：北京、上海、广州、深圳、成都、十堰、宁波  
 境外地区：香港、美国、台北、东京、首尔、新加坡、雅加达、孟买、马尼拉、胡志明市、曼谷、伦敦、圣保罗、迪拜、马来西亚、德国、荷兰
 
-[![https://www.cb2.cn]([https://r2.tu.b2w.top/20250601/d7a2bbec1a4982975394c7b10ee8d482.png](https://cn.ftp.shiyan.evn.cc/2026/02/10/e81587153ad51c8378cfb76f06353940.png))](https://www.cb2.cn/)
+![https://www.cb2.cn](https://cn.ftp.shiyan.evn.cc/2026/02/10/e81587153ad51c8378cfb76f06353940.png)
 
 ### 不二云计算官网
 
